@@ -30,11 +30,11 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "ACCESSTOKEN": "EAAD6V7os0gcBO6yzQT7wxFunUfEUn8k2nFBCOAcE8l8ViYyY7pqFXZBN0Nf6NI0BryZBDCvvKJlwoaobMJHZBlrhAE9WY1LvSRrZAMhOr5yxEZCUEyAZAG5zt7KbifrIiR6G5XMeHHnzKiH2vZAYOWZCZCZAvC61iw9IZA9bmtprfQSzmx242GQmsTJP6yGkwZDZD",
-    "BOTNAME": "Bot tnt",
+    "ACCESSTOKEN": "EAAGNO4a7r2wBO4di7aTawQG3mB8GYLLyoXQZBxuZATg7v95qzsuy71ZAz4C1V9MAJmxThoRDTEqxtVONIwkDyNB6BBaQevklEepIXoBfibjtexcwkFoT8Aa3NFrcfY1t7Dzn3wrzell0BzgzQhfoajsmua5ZCdmanTsYvHrCnU2Sgg8aYQmXWcmzGAZDZD",
+    "BOTNAME": "Ng The Vinh",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100090168070553",
+        "100049295615990",
         "",
         "",
         "",
@@ -52,7 +52,7 @@
         }
     },
     "DESIGN": {
-        "BOT": "BOT",
+        "BOT": "Ng The Vinh",
         "Title": "V3.8",
         "Theme": "flower",
         "Admin": "ADMIN",

@@ -52,10 +52,10 @@
         }
     },
     "DESIGN": {
-        "BOT": "BOT",
+        "BOT": "Ng The Vinh",
         "Title": "V3.8",
         "Theme": "flower",
-        "Admin": "ADMIN",
+        "Admin": "",
         "Setup": {
             "BOT": "Ng The Vinh",
             "Theme": "Mày có thể dùng các Theme như: Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
